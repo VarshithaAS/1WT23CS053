@@ -6,4 +6,7 @@ Section:A
 Branch:Computer Science 
 Year of Admission:2023
 College Name:GITW
+SSLC:Adarsha vidyalaya
+PUC:JSS College
+UG Degree:B.E-Computer Science Engineering
 

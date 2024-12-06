@@ -3,8 +3,10 @@ Full Name:Varshitha A S
 USN:1WT23CS053
 Semester:Third
 Section:A
-Subject Name:Project management with GIT
-Subject Code:BCS58C
+Subject Name:project management wit Git
+Subject Code:BCS3586
 Academic Year:2024-25
-Mobile No:9611199278
-Email ID:varshaasg1989@gmail.com
+Mobile number:9611199278
+My date of joining to Gitw: 3rd oct-2023
+
+
